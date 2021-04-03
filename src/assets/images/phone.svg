@@ -1,5 +1,1 @@
-<svg width="36" height="63" viewBox="0 0 36 63" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect x="1" y="1" width="34" height="61" rx="9" fill="#33404E" stroke="white" stroke-width="2"/>
-<rect width="6" height="6" rx="3" transform="matrix(-1 0 0 1 21 50)" stroke="white"/>
-<line x1="15.5" y1="7.5" x2="20.5" y2="7.5" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="36" height="63" fill="none" viewBox="0 0 36 63"><rect width="34" height="61" x="1" y="1" fill="#33404E" stroke="#fff" stroke-width="2" rx="9"/><rect width="6" height="6" stroke="#fff" rx="3" transform="matrix(-1 0 0 1 21 50)"/><line x1="15.5" x2="20.5" y1="7.5" y2="7.5" stroke="#fff" stroke-linecap="round" stroke-linejoin="round"/></svg>
